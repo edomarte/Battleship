@@ -12,3 +12,8 @@
   .selected:disabled{
     background-color: red;
   }
+
+  .disabledbutton {
+    pointer-events: none;
+    opacity: 0.4;
+}
